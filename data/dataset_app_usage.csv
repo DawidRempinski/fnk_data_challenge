@@ -1,0 +1,29 @@
+User_ID;app_version;os_type;session_duration;num_screens;crashes;device_model;is_premium_user;push_notifications_enabled;last_access
+852590;v1.0.0;Android;367;2;0;Samsung Galaxy S21;True;True;24.03.2025
+863667;v1.0.1;iOS;395;2;0;Pixel 6;False;False;15.04.2025
+1839882;v2.0.2;Android;546;3;1;iPhone 13;True;False;02.05.2025
+968554;v2.0.3;iOS;516;3;0;iPhone 14;False;True;31.03.2025
+843328;v3.0.0;Android;223;6;1;OnePlus 9;True;True;24.03.2025
+855390;v3.0.1;iOS;103;1;0;Pixel 6;True;True;21.04.2025
+884031;v4.0.0;Android;401;4;0;OnePlus 9;False;False;20.04.2025
+1151342;v4.0.1;iOS;583;8;0;iPhone 14;False;True;02.05.2025
+842863;v5.0.0;Android;411;8;0;Pixel 6;True;False;13.04.2025
+842726;v5.0.1;iOS;526;1;0;Pixel 6;True;False;27.03.2025
+1523563;v6.0.0;Android;296;9;1;Samsung Galaxy S21;True;True;11.05.2025
+1751466;v6.0.1;iOS;115;4;0;iPhone 14;False;True;24.03.2025
+1519921;v7.0.0;Android;257;4;1;Pixel 6;True;True;28.03.2025
+842325;v7.0.1;iOS;584;10;1;Pixel 6;True;False;24.04.2025
+1469324;v8.0.0;Android;492;8;1;Pixel 6;True;False;22.04.2025
+626012;v8.0.1;iOS;274;7;1;Pixel 6;True;False;12.04.2025
+842951;v9.0.0;Android;318;7;1;Pixel 6;True;True;04.05.2025
+841775;v9.0.1;iOS;160;7;1;Pixel 6;False;False;07.05.2025
+1426868;v10.0.0;Android;364;9;1;Pixel 6;True;False;26.03.2025
+2013377;v10.0.1;iOS;210;9;1;iPhone 14;False;False;27.04.2025
+1739845;v11.0.0;Android;416;7;1;OnePlus 9;True;False;21.05.2025
+1508152;v11.0.1;iOS;216;4;1;iPhone 14;True;True;03.05.2025
+859665;v12.0.0;Android;86;7;1;Pixel 6;True;False;07.05.2025
+859665;v12.0.1;iOS;238;9;1;iPhone 14;False;True;17.05.2025
+1438207;v13.0.0;Android;118;3;1;Samsung Galaxy S21;False;False;25.04.2025
+1438207;v13.0.1;iOS;228;10;0;iPhone 14;True;False;16.04.2025
+1756441;v14.0.0;Android;432;6;0;Pixel 6;False;True;28.03.2025
+790068;v15.0.0;iOS;217;2;1;iPhone 14;False;False;21.05.2025
